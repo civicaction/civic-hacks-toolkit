@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "cityhack-toolkit",
+  "version": "0.0.0",
+  "main": "./",
+  "description": "A comprehensive toolkit for Civic Hacking",
+  "homepage": "https://github.com/skgtech/cityhack-toolkit",
+  "bugs": "https://github.com/skgtech/cityhack-toolkit/issues",
+  "author": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skgtech/cityhack-toolkit"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
