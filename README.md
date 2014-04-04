@@ -4,8 +4,8 @@
 
 ## <a name='TOC'>Table of Contents</a>
 
+1. [The Manifesto](/manifesto.md)
 1. [Tools & Libraries](/tools-libraries.md)
-1. [TBD](#api)
 
 ## Overview
 
